@@ -16,6 +16,14 @@ body {
     background-color: var(--background-color);
     color: var(--text-color);
     scroll-behavior: smooth;
+}body {
+    font-family: "Dancing Script", cursive;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    scroll-behavior: smooth;
 }
 /*Sección para cambiar color de la barra de sección*/
 .header {
